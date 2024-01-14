@@ -1,0 +1,14 @@
+nav {
+	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+h2 {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 767px) {
+	.center-image {
+			text-align: center;
+			margin-bottom: 4em;
+	}
+}
