@@ -2,7 +2,7 @@
 
 ## Description
 
-A project using the GitHub API to explore top repositories based on a programming language and keyword search.
+A project using the GitHub API to return a list of repositories based on a programming language and keyword search.
 
 ### Features:
 * TBC
@@ -15,8 +15,8 @@ TBC
 
 ### Links
 
-* [Deployed website](#)
-* [GitHub repository](#)
+* [Deployed website](https://aoifeedx.github.io/github-explorer/)
+* [GitHub repository](https://github.com/AoifeEdX/github-explorer)
 
 ## Credits
 
