@@ -7,11 +7,24 @@ A project using the GitHub API to return a list of repositories based on a progr
 ### Features:
 * TBC
 
-## Usage
+## Project Requirements:
+* Must use at least two server-side APIs that we did not cover in class
+* Must use client-side storage to store persistent data
+* Must have a polished UI
+* Must meet good quality coding standards (indentation, scoping, naming, etc.)
+* Must NOT use alerts, confirms, or prompts (look into modals).
+* Must be deployed to GitHub Pages
+* Must be interactive (i.e.: accept and respond to user input)
+* MAY use a CSS framework (Bootstrap or similar)38
 
-TBC
+### API Suggestions:
+Stick to APIs that do all of the following:
+* Allow cross-origin resource sharing (CORS)
+* Require simple or no authentication
+* Return a JSON response
+* Are well-documented
 
-![portfolio demo](./assets/images/AoifeEdX-Portfolio.gif)
+![screenshot TBC](#)
 
 ### Links
 
