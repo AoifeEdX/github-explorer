@@ -6,6 +6,8 @@ h2 {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
+.dark img.invert {filter: invert(88.1%) hue-rotate(90deg);}
+
 @media (max-width: 767px) {
 	.center-image {
 			text-align: center;
